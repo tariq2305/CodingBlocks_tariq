@@ -52,6 +52,7 @@ Want to contribute? Great!
 
 Make a change in your file and instantaneously see your updates!
 
-## Screenshot
+##Screenshot of the output
 
-![Screenshot](./images/screenshot.PNG)
+
+![Screenshot 2024-05-25 140400](https://github.com/tariq2305/CodingBlocks_tariq/assets/158177096/7d52ea56-7349-4db0-b582-ee3d03849357)
